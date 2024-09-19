@@ -1,3 +1,3 @@
-- 👋 Hi, I’m ni
-- 🌱 I’m currently learning web development
+# Hi, I’m Niko 👋
+ I’m currently expanding my knowlodge about the internet overall, learning ramdom things
 
